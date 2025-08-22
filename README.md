@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff84c6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá,+eu+sou+a+Bruna!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF84C6&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Ol%C3%A1,+eu+sou+a+Bruna!+%CB%99%CA%95%CB%99+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
@@ -45,8 +45,8 @@
 
 #
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruna-Moreira23/Bruna-Moreira23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruna-Moreira23/Bruna-Moreira23/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bruna-Moreira23/Bruna-Moreira23/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruna-Moreira23/Bruna-Moreira23/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bruna-Moreira23/Bruna-Moreira23/output/github-contribution-grid-snake.svg">
 </picture>
