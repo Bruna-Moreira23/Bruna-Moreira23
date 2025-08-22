@@ -7,7 +7,7 @@
 #
 
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e estou constantemente em busca de novos conhecimentos e desafios que impulsionem meu crescimento profissional. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+  
 #
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -18,30 +18,34 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff84c6?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bruna-souza-b1390118a/)
 
 
+---
 
 ## Habilidades
 
 <div align="left">
 
-![C](https://img.shields.io/badge/-fff?style=for-the-badge&logo=c&logoColor=black)
-![PL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=fff&labelColor=fff&color=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql)
-![Vscode](https://img.shields.io/badge/Vscode-fff?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
-![Windows](https://img.shields.io/badge/Windows-fff?style=for-the-badge&logo=windows&logoColor=fff)
+![C](https://img.shields.io/badge/-C-fff?style=for-the-badge&logo=c&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-fff?style=for-the-badge&logo=oracle&logoColor=000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=000)
+![Vscode](https://img.shields.io/badge/Vscode-fff?style=for-the-badge&logo=visual-studio-code&logoColor=000)
+![Windows](https://img.shields.io/badge/Windows-fff?style=for-the-badge&logo=windows&logoColor=000)
 
-#
+</div>
 
-<div style="text-align: center;" align="center">
-  <h3> GitHub Stats </h3>
-  <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruna-Moreira23&theme=transparent&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
 <div style="text-align: center;" align="center">
-  <h3> Minhas Contribuições </h3>
-  <br>
+  <h3> GitHub Stats </h3>
+  <br>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruna-Moreira23&repo=dio-lab-open-source&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Bruna-Moreira23/dio-lab-open-source)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bruna-Moreira23&theme=transparent&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)
 
-#
+</div>
 
+<div style="text-align: center;" align="center">
+  <h3> Minhas Contribuições </h3>
+  <br>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Bruna-Moreira23&repo=dio-lab-open-source&bg_color=fff&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/Bruna-Moreira23/dio-lab-open-source)
+
+</div>
